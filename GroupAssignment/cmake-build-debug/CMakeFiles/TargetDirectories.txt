@@ -1,0 +1,3 @@
+/Users/yuriilebid/CLionProjects/GroupAssignment/cmake-build-debug/CMakeFiles/GroupAssignment.dir
+/Users/yuriilebid/CLionProjects/GroupAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yuriilebid/CLionProjects/GroupAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

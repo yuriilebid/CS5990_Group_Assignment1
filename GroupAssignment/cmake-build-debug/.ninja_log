@@ -1,0 +1,21 @@
+# ninja log v6
+2	1370	1730928002257457899	CMakeFiles/GroupAssignment.dir/Barabasi.cpp.o	7eaaad8119abb797
+2	1377	1730928002257256771	CMakeFiles/GroupAssignment.dir/wattz_strogatz.cpp.o	41c2d2f8029c6a23
+3	1493	1730928002257624277	CMakeFiles/GroupAssignment.dir/Graph.cpp.o	51a0b4ebe0e3d8f3
+1	1859	1730928002255689454	CMakeFiles/GroupAssignment.dir/main.cpp.o	fac875d5e69cae5d
+1859	2031	1730928004114229985	GroupAssignment	c32fe103249307bb
+4	1522	1730928049939254180	CMakeFiles/GroupAssignment.dir/main.cpp.o	fac875d5e69cae5d
+1523	1682	1730928051457511440	GroupAssignment	c32fe103249307bb
+6	1421	1730928076457996516	CMakeFiles/GroupAssignment.dir/main.cpp.o	fac875d5e69cae5d
+1421	1559	1730928077873075242	GroupAssignment	c32fe103249307bb
+7	1062	1730928227831297250	CMakeFiles/GroupAssignment.dir/Graph.cpp.o	51a0b4ebe0e3d8f3
+6	1418	1730928227829910394	CMakeFiles/GroupAssignment.dir/main.cpp.o	fac875d5e69cae5d
+1418	1583	1730928229241866111	GroupAssignment	c32fe103249307bb
+7	1564	1730928369150460908	CMakeFiles/GroupAssignment.dir/main.cpp.o	fac875d5e69cae5d
+1565	1730	1730928370707697601	GroupAssignment	c32fe103249307bb
+5	1540	1730929678614776405	CMakeFiles/GroupAssignment.dir/main.cpp.o	fac875d5e69cae5d
+1540	1706	1730929680150176122	GroupAssignment	c32fe103249307bb
+7	1880	1730930253767316348	CMakeFiles/GroupAssignment.dir/main.cpp.o	fac875d5e69cae5d
+1880	2050	1730930255640612568	GroupAssignment	c32fe103249307bb
+6	1911	1730930389607472431	CMakeFiles/GroupAssignment.dir/main.cpp.o	fac875d5e69cae5d
+1912	2057	1730930391512959225	GroupAssignment	c32fe103249307bb
